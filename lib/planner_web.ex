@@ -84,6 +84,7 @@ defmodule PlannerWeb do
       import Phoenix.HTML
       # Core UI components and translation
       import PlannerWeb.CoreComponents
+      import PlannerWeb.PlannerComponents
 
       # Shortcut for generating JS commands
       alias Phoenix.LiveView.JS

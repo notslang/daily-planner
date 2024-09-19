@@ -23,6 +23,8 @@ These are features that are common in mass-produced daily planners that I am int
 
 ## Printing Notes
 
+Need to add a blank side to the first sheet of paper, so the week begins on the back side of the first sheet and days Monday - Sunday are visible all at once.
+
 This generates an HTML page designed to be printed through your browser.
 
 Left / right margins need to be increased to fit the 3-hole punch. Margins should be:
